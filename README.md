@@ -1,3 +1,5 @@
+(https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif)
+
 ### Hi there 👋, my name is Suzyo Mwelwa
 #### A senior software engineer
 Senior Software Engineer and Team Lead with hands-on experience in software development, including requirements gathering, requirement analysis, and project management, system design and data modeling, system testing, and system documentation.
