@@ -16,12 +16,12 @@ Skills: PHP / Dart / java / JavaScript / C# / Python
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suzyo Mwelwa)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Suzyo Mwelwa&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Suzyo-Mwelwa&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Suzyo Mwelwa)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Suzyo-Mwelwa)  
 
-![GitHub metrics](https://metrics.lecoq.io/Suzyo Mwelwa)  
+![GitHub metrics](https://metrics.lecoq.io/Suzyo-Mwelwa)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Suzyo Mwelwa)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Suzyo-Mwelwa)  
 
-![Profile views](https://gpvc.arturio.dev/Suzyo Mwelwa)  
+![Profile views](https://gpvc.arturio.dev/Suzyo-Mwelwa)  
